@@ -7,7 +7,7 @@ I started with a simple question:
 
 The answer seemed obvious at first. Xbox turns Achievements into a cumulative Gamerscore. PlayStation gives players Bronze, Silver, Gold, and Platinum trophies.
 
-But that wasn't quite true.
+But that wasn't really true. 
 
 The deeper I went, the less this became a comparison of two achievement systems and the more it became a product question about what happens when we try to summarize years of player behavior into a number.
 
@@ -93,7 +93,7 @@ One of the most useful examples came from how we approach games differently.
 
 He gravitates toward difficult combat games. Optional bosses matter to him even when there is no Achievement attached. Beating those bosses is part of what playing the game means to him.
 
-I gravitate more toward exploration, collecting, Pokémon, map completion, and games like Cozy Grove.
+I gravitate more toward exploration, collecting, map completion, and games that I don't get stuck on difficulty for days or weeks at a time.
 
 Put us in the same game and the same achievement system can interact with completely different motivations.
 
