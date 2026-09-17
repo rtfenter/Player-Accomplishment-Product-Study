@@ -327,9 +327,7 @@ Before investing further, I would test four assumptions:
 
 The biggest remaining risk is that players may prefer one effortless platform-generated signal over having to curate anything themselves.
 
-That isn't something desk research can answer.
-
-It needs players.
+This needs players to answer. 
 
 ---
 
