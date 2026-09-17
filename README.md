@@ -257,7 +257,7 @@ Rather than replacing them, I would prototype a small layer on top:
 
 ### A player-curated accomplishment showcase
 
-![Featured Accomplishments concept](assets/images/featuredaccomplishments.png)
+<img src="assets/images/featuredaccomplishments.png" alt="Featured Accomplishments concept" width="650">
 
 **Concept: Featured Accomplishments**
 Players choose verified trophies from their PlayStation history to represent the accomplishments that matter to them. Existing trophy systems remain unchanged.
@@ -353,4 +353,3 @@ That became the most useful part of the project.
 The goal wasn't to prove that Xbox or PlayStation designed the better achievement system.
 
 It was to understand what each system chooses to measure, what players infer from those measurements, what gets lost in the compression, and where the platform should stop interpreting and let the player speak for themselves.
-
