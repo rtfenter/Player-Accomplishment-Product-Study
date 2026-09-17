@@ -353,3 +353,10 @@ That became the most useful part of the project.
 The goal wasn't to prove that Xbox or PlayStation designed the better achievement system.
 
 It was to understand what each system chooses to measure, what players infer from those measurements, what gets lost in the compression, and where the platform should stop interpreting and let the player speak for themselves.
+
+---
+
+## Research
+
+- [Research findings](research/findings.md) — Platform mechanics, comparison, evidence, and sources.
+- [Product reasoning log](research/reasoning-log.md) — Hypotheses, rejected directions, reframing, and decision process.
