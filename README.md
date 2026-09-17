@@ -257,6 +257,11 @@ Rather than replacing them, I would prototype a small layer on top:
 
 ### A player-curated accomplishment showcase
 
+![Featured Accomplishments concept](assets/images/featuredaccomplishments.png)
+
+**Concept: Featured Accomplishments**
+Players choose verified trophies from their PlayStation history to represent the accomplishments that matter to them. Existing trophy systems remain unchanged.
+
 Players could select a limited number of verified accomplishments from their PlayStation history to feature on their profile.
 
 Those might include:
