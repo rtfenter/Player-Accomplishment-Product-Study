@@ -201,7 +201,7 @@ That reframed the project.
 
 ---
 
-# How might a gaming platform represent lifetime player accomplishment without reducing it to completion alone?
+## How might a gaming platform represent lifetime player accomplishment without reducing it to completion alone?
 
 I didn't want to answer that question with a more complicated score.
 
